@@ -14,7 +14,7 @@ To import Phishing Templates into Phishing Frenzy navigate to the Templates -> R
 
 Once imported, the template will be available and ready to be assigned for all future Phishing Campaigns.
 
-Phishing Template Structure
+Phishing Template Structure For PR
 -------------------------
 
 When you submit a PR for a new template please follow the established structure to ensure we have a uniform collection of phishing scenarios.
